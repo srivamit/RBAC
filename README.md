@@ -30,8 +30,7 @@ An **Admin Panel Application** built with **React.js**, implementing **Role-Base
 
 ### **Frontend**
 - **React.js**: Modern and dynamic UI.  
-- **CSS**: Styled-components for responsive and visually appealing design.  
-- **Axios**: Simplified API handling.  
+- **CSS**: Styled-components for responsive and visually appealing design. 
 - **React Router**: Smooth navigation between routes.
 
 ### **Libraries & Tools**
@@ -41,15 +40,3 @@ An **Admin Panel Application** built with **React.js**, implementing **Role-Base
 
 ---
 
-## 🚀 **Getting Started**
-
-### Prerequisites
-Ensure the following tools are installed on your system:
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-
-### **Frontend Setup**
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/YourGitHubUsername/rbac-admin-panel.git
-   cd rbac-admin-panel
